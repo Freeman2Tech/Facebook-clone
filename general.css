@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgb(240, 242, 245);
+  /* padding-right: 1000px; */
+  padding: 50px 50px 70px 10px;
+}
+.containers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  /* grid-template-columns: 1fr 300px;
+  column-gap: 100px; */
+}
